@@ -1,9 +1,13 @@
 # dotnetcoreDemo
 
 dotnet publish -o site
+
 cd site
+
 zip ../site.zip *
+
 cd ..
+
 zip dotnet-core-tutorial.zip site.zip aws-windows-deployment-manifest.json
 
 
