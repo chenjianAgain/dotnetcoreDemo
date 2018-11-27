@@ -11794,23 +11794,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/ios/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/chenkieaws/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/DatingApp.API.csproj",
+      "projectUniqueName": "/home/chenkieaws/joseph/dotnetcoreDemo/DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "/Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/DatingApp.API.csproj",
-      "packagesPath": "/Users/ios/.nuget/packages/",
-      "outputPath": "/Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/obj/",
+      "projectPath": "/home/chenkieaws/joseph/dotnetcoreDemo/DatingApp.API.csproj",
+      "packagesPath": "/home/chenkieaws/.nuget/packages/",
+      "outputPath": "/home/chenkieaws/joseph/dotnetcoreDemo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ios/.nuget/NuGet/NuGet.Config"
+        "/home/chenkieaws/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

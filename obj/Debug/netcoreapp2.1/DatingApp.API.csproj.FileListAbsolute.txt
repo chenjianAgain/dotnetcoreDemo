@@ -12,3 +12,17 @@
 /Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
 /Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.dll
 /Users/ios/Documents/DatingApp/DatingApp.API/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
+/home/chenkieaws/joseph/dotnetcoreDemo/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/home/chenkieaws/joseph/dotnetcoreDemo/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/home/chenkieaws/joseph/dotnetcoreDemo/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/home/chenkieaws/joseph/dotnetcoreDemo/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/chenkieaws/joseph/dotnetcoreDemo/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/home/chenkieaws/joseph/dotnetcoreDemo/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
